@@ -1,5 +1,8 @@
-🌐 Programme Client-Serveur avec Sockets en C
-Ce repository contient une implémentation simple d'une application client-serveur utilisant les sockets en langage C. Ce projet illustre les concepts fondamentaux de la communication réseau, tels que l'établissement de connexions, l'envoi et la réception de messages, et la gestion des échanges entre plusieurs clients et un serveur central.
+🌐 Programme Client-Serveur avec Sockets en C:
+
+Ce repository contient une implémentation simple d'une application client-serveur utilisant les sockets en langage C.
+Ce projet illustre les concepts fondamentaux de la communication réseau, tels que l'établissement de connexions,
+l'envoi et la réception de messages, et la gestion des échanges entre plusieurs clients et un serveur central.
 
 📋 Fonctionnalités principales :
 Serveur multi-clients : Gestion des connexions simultanées avec plusieurs clients.
